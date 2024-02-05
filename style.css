@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+.president{
+    color:blue
+}
+
+.governor{
+    color:purple
+}
+
+.senate{
+    color:red
+}
+
+.wrap{
+    display:flex;
+    background: black;
+    width: 80%;
+    margin: auto;
+    margin-top: 1rem;
+}
