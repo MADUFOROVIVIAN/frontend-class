@@ -24,3 +24,41 @@
     margin: auto;
     margin-top: 1rem;
 }
+#account input{
+    width: 50%;
+    height: 30px;
+}
+account label{
+    color: green;
+    font-size: 16;
+}
+
+table{
+    border: 2px solid green ;
+    width: 70%;
+    margin: auto;
+}
+table th{
+    border: 2px solid red ;
+    background: red;
+    color: white;
+    font-size: 18px;
+    padding: .5rem;
+}
+
+table td{
+    border: 2px solid blue;
+    text-align: center;
+}
+.one{
+    background: green;
+}
+.two{
+    background: purple;
+}
+.three{
+    background: pink;
+}
+.four{
+    background: orange;
+}
